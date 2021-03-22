@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb 28 18:20:18 2020
-
-@author: Kiran
 """
 
 
